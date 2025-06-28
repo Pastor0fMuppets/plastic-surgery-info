@@ -28,4 +28,7 @@ Prices are averages **for information only** and may change.
 Not medical advice.  Verify with a board‑certified plastic surgeon.  
 Affiliate links are marked *Consult_Link*; I may receive a referral fee on booked consults.
 
-MIT License © 2025 TopCCOffers
+**Raw CSV (70 kB)**  
+https://raw.githubusercontent.com/Pastor0fMuppets/plastic-surgery-info/v2507/data/plastic_cost_v2507.csv
+
+MIT License © 2025 FourGrowth
